@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Debugging / IDE specific files
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Next.js build outputs
+.next/
+
+# Package locks
+package-lock.json
+yarn.lock
+
+# Cache
+.cache/
